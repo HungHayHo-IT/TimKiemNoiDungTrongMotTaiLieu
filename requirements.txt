@@ -5,4 +5,4 @@ pypdf
 python-docx
 numpy
 torch
-groq
+google-generativeai
