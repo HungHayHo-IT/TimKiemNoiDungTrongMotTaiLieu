@@ -67,9 +67,11 @@ async def llm_acompletion(model, prompt):
     for i in range(max_retries):
         try:
             response = await litellm.acompletion(
-                model=model,
+                model="openai/" + model,
                 messages=messages,
                 temperature=0,
+                api_base="http://localhost:1234/v1",
+                api_key="lm-studio",
             )
             return response.choices[0].message.content
         except Exception as e:

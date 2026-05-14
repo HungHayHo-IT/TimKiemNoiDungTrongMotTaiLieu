@@ -1,0 +1,54 @@
+{
+  "id": "03b3c069-7c5c-4fcc-bb5e-e93b0b383960",
+  "type": "md",
+  "path": "D:\\Tài liệu\\PageIndex\\PageIndex\\examples\\tai_lieu_test.md",
+  "doc_name": "tai_lieu_test",
+  "doc_description": "Đây là hướng dẫn chi tiết từng bước về quy trình mua sắm trực tuyến hoàn chỉnh, bao gồm từ việc chọn sản phẩm, thanh toán đơn hàng, theo dõi vận chuyển cho đến chính sách đổi trả hàng hóa.",
+  "line_count": 17,
+  "structure": [
+    {
+      "title": "Hướng Dẫn Mua Sắm Online",
+      "node_id": "0000",
+      "line_num": 1,
+      "text": "# Hướng Dẫn Mua Sắm Online",
+      "nodes": [
+        {
+          "title": "1. Chọn Sản Phẩm",
+          "node_id": "0001",
+          "line_num": 3,
+          "text": "## 1. Chọn Sản Phẩm\nTruy cập website, dùng thanh tìm kiếm hoặc duyệt theo danh mục. Đọc kỹ mô tả, xem ảnh sản phẩm và kiểm tra đánh giá từ người mua trước.",
+          "summary": "## 1. Chọn Sản Phẩm\nTruy cập website, dùng thanh tìm kiếm hoặc duyệt theo danh mục. Đọc kỹ mô tả, xem ảnh sản phẩm và kiểm tra đánh giá từ người mua trước."
+        },
+        {
+          "title": "2. Thêm Vào Giỏ Hàng",
+          "node_id": "0002",
+          "line_num": 6,
+          "text": "## 2. Thêm Vào Giỏ Hàng\nChọn số lượng, màu sắc hoặc kích cỡ phù hợp rồi nhấn **Thêm vào giỏ hàng**. Có thể tiếp tục mua sắm hoặc tiến hành thanh toán ngay.",
+          "summary": "## 2. Thêm Vào Giỏ Hàng\nChọn số lượng, màu sắc hoặc kích cỡ phù hợp rồi nhấn **Thêm vào giỏ hàng**. Có thể tiếp tục mua sắm hoặc tiến hành thanh toán ngay."
+        },
+        {
+          "title": "3. Thanh Toán",
+          "node_id": "0003",
+          "line_num": 9,
+          "text": "## 3. Thanh Toán\nĐiền địa chỉ giao hàng, chọn phương thức thanh toán (COD, chuyển khoản, ví điện tử). Kiểm tra lại đơn hàng trước khi nhấn **Đặt hàng**.",
+          "summary": "## 3. Thanh Toán\nĐiền địa chỉ giao hàng, chọn phương thức thanh toán (COD, chuyển khoản, ví điện tử). Kiểm tra lại đơn hàng trước khi nhấn **Đặt hàng**."
+        },
+        {
+          "title": "4. Theo Dõi Đơn Hàng",
+          "node_id": "0004",
+          "line_num": 12,
+          "text": "## 4. Theo Dõi Đơn Hàng\nSau khi đặt hàng, bạn nhận được mã đơn hàng qua email hoặc SMS. Dùng mã này để theo dõi trạng thái vận chuyển trên website.",
+          "summary": "## 4. Theo Dõi Đơn Hàng\nSau khi đặt hàng, bạn nhận được mã đơn hàng qua email hoặc SMS. Dùng mã này để theo dõi trạng thái vận chuyển trên website."
+        },
+        {
+          "title": "5. Nhận Hàng & Đổi Trả",
+          "node_id": "0005",
+          "line_num": 15,
+          "text": "## 5. Nhận Hàng & Đổi Trả\nKiểm tra hàng trước khi ký nhận. Nếu sản phẩm lỗi hoặc không đúng mô tả, liên hệ hỗ trợ trong vòng **7 ngày** để được đổi trả miễn phí.",
+          "summary": "## 5. Nhận Hàng & Đổi Trả\nKiểm tra hàng trước khi ký nhận. Nếu sản phẩm lỗi hoặc không đúng mô tả, liên hệ hỗ trợ trong vòng **7 ngày** để được đổi trả miễn phí."
+        }
+      ],
+      "prefix_summary": "# Hướng Dẫn Mua Sắm Online"
+    }
+  ]
+}

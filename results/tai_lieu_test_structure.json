@@ -1,0 +1,38 @@
+{
+  "doc_name": "tai_lieu_test",
+  "line_count": 17,
+  "structure": [
+    {
+      "title": "Hướng Dẫn Mua Sắm Online",
+      "node_id": "0001",
+      "line_num": 1,
+      "nodes": [
+        {
+          "title": "1. Chọn Sản Phẩm",
+          "node_id": "0002",
+          "line_num": 3
+        },
+        {
+          "title": "2. Thêm Vào Giỏ Hàng",
+          "node_id": "0003",
+          "line_num": 6
+        },
+        {
+          "title": "3. Thanh Toán",
+          "node_id": "0004",
+          "line_num": 9
+        },
+        {
+          "title": "4. Theo Dõi Đơn Hàng",
+          "node_id": "0005",
+          "line_num": 12
+        },
+        {
+          "title": "5. Nhận Hàng & Đổi Trả",
+          "node_id": "0006",
+          "line_num": 15
+        }
+      ]
+    }
+  ]
+}

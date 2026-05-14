@@ -5,5 +5,40 @@
     "doc_description": "This document introduces \"Attention Residuals\" (AttnRes) and its scalable variant \"Block AttnRes,\" novel mechanisms for replacing fixed residual accumulation in neural networks with learned, input-dependent depth-wise attention, addressing limitations of standard residual connections while optimizing memory, computation, and scalability for large-scale training and inference.",
     "page_count": 21,
     "path": "../documents/attention-residuals.pdf"
+  },
+  "1221c55e-a49f-4fec-943c-f91240abf86c": {
+    "type": "md",
+    "doc_name": "tai_lieu_test",
+    "doc_description": "Đây là hướng dẫn chi tiết từng bước về quy trình mua sắm trực tuyến hoàn chỉnh, bao gồm từ việc chọn sản phẩm, thanh toán đơn hàng, theo dõi vận chuyển cho đến chính sách đổi trả hàng hóa.",
+    "path": "D:\\Tài liệu\\PageIndex\\PageIndex\\examples\\tai_lieu_test.md",
+    "line_count": 17
+  },
+  "7e4efe5e-7d30-46e2-a91d-8e2a0601aaf4": {
+    "type": "md",
+    "doc_name": "tai_lieu_test",
+    "doc_description": "Đây là hướng dẫn chi tiết từng bước về quy trình mua sắm trực tuyến hoàn chỉnh, bao gồm từ việc chọn sản phẩm, thanh toán đơn hàng, theo dõi vận chuyển cho đến chính sách đổi trả hàng hóa.",
+    "path": "D:\\Tài liệu\\PageIndex\\PageIndex\\examples\\tai_lieu_test.md",
+    "line_count": 17
+  },
+  "03b3c069-7c5c-4fcc-bb5e-e93b0b383960": {
+    "type": "md",
+    "doc_name": "tai_lieu_test",
+    "doc_description": "Đây là hướng dẫn chi tiết từng bước về quy trình mua sắm trực tuyến hoàn chỉnh, bao gồm từ việc chọn sản phẩm, thanh toán đơn hàng, theo dõi vận chuyển cho đến chính sách đổi trả hàng hóa.",
+    "path": "D:\\Tài liệu\\PageIndex\\PageIndex\\examples\\tai_lieu_test.md",
+    "line_count": 17
+  },
+  "96a28fb2-7485-4472-b873-269674cbd440": {
+    "type": "md",
+    "doc_name": "tai_lieu_test",
+    "doc_description": "Đây là hướng dẫn chi tiết từng bước về quy trình mua sắm trực tuyến hoàn chỉnh, bao gồm từ việc chọn sản phẩm, thanh toán đơn hàng, theo dõi vận chuyển cho đến chính sách đổi trả hàng hóa.",
+    "path": "D:\\Tài liệu\\PageIndex\\PageIndex\\examples\\tai_lieu_test.md",
+    "line_count": 17
+  },
+  "5f73e408-e724-43ff-89e9-b1043af32ceb": {
+    "type": "md",
+    "doc_name": "tai_lieu_test",
+    "doc_description": "Đây là hướng dẫn chi tiết từng bước về quy trình mua sắm trực tuyến hoàn chỉnh, bao gồm từ việc chọn sản phẩm, thanh toán đơn hàng, theo dõi vận chuyển cho đến chính sách đổi trả hàng hóa.",
+    "path": "D:\\Tài liệu\\PageIndex\\PageIndex\\examples\\tai_lieu_test.md",
+    "line_count": 17
   }
 }

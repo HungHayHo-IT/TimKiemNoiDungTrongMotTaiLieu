@@ -38,7 +38,7 @@ import pageindex.utils as utils
 # PDF_URL = "https://arxiv.org/pdf/c:\Users\Windows\AppData\c:\Users\Windows\AppData\Local\Packages\MicrosoftWindows.Client.Core_cw5n1h2txyewy\TempState\ScreenClip\{E7566644-406C-438A-A614-211523D3A7BA}.pngLocal\Packages\MicrosoftWindows.Client.Core_cw5n1h2txyewy\TempState\ScreenClip\{022F2C5B-F394-458F-AA4F-D750037DDA4E}.png2603.15031"
 PDF_URL = None
 _EXAMPLES_DIR = Path(__file__).parent
-PDF_PATH = Path(__file__).parent.parent / "examples" / "tai_lieu_test.md"
+PDF_PATH = Path(__file__).parent / "test_document.pdf"
 WORKSPACE = _EXAMPLES_DIR / "workspace"
 
 AGENT_SYSTEM_PROMPT = """
@@ -139,6 +139,9 @@ def query_agent(client: PageIndexClient, doc_id: str, prompt: str, verbose: bool
 if __name__ == "__main__":
 
     set_tracing_disabled(True)
+    import os
+    os.environ["OPENAI_API_KEY"] = "lm-studio"
+    os.environ["OPENAI_BASE_URL"] = "http://localhost:1234/v1"
 
     # Download PDF if needed
     if not PDF_PATH.exists():
@@ -183,6 +186,6 @@ if __name__ == "__main__":
     print("\n" + "=" * 60)
     print("Step 3: Agent Query (auto tool-use)")
     print("=" * 60)
-    question = "Sau khi đặt hàng thì mã đơn hàng sẽ nhận qua đâu ?"
+    question = "Kế hoạch triển khai có mấy giai đoạn ?"
     print(f"\nQuestion: '{question}'")
     query_agent(client, doc_id, question, verbose=True)
